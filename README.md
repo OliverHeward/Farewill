@@ -8,7 +8,9 @@ If you wish to view this project, clone me down!
 
 Run the following command.
 
-`git clone https://github.com/OliverHeward/Farewill.git && cd Farewill`
+```shell
+git clone https://github.com/OliverHeward/Farewill.git && cd Farewill
+```
 
 Install dependencies.
 
