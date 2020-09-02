@@ -66,6 +66,7 @@ const StyledQuote = styled.p`
   margin-bottom: 0;
   @media screen and (min-width: 1024px) {
     text-align: left;
+    line-height: 33px;
   }
 `;
 
