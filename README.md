@@ -8,12 +8,11 @@ If you wish to view this project, clone me down!
 
 Run the following command.
 
-`git clone https://github.com/OliverHeward/Farewill.git`
+`git clone https://github.com/OliverHeward/Farewill.git && cd Farewill``
 
-Move into the correct directory, and install dependencies.
+Install dependencies.
 
 ```shell
-cd farewill
 npm install
 ```
 
