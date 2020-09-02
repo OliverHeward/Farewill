@@ -1,0 +1,25 @@
+body {
+  font-family: Visuelt, Helvetica, sans-serif;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: "Visuelt";
+  src: url(./assets/fonts/VisueltPro-Light.ttf) format('truetype');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Visuelt";
+  src: url(./assets/fonts/VisueltPro-Regular.ttf) format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Visuelt";
+  src: url(./assets/fonts/VisueltPro-Bold.ttf) format('truetype');
+  font-weight: 700;
+}
